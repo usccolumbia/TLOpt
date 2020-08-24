@@ -7,6 +7,12 @@ School of Mechanical Engineering, Guizhou University
 Department of Computer Science and Engineering, University of South Carolina
 2020-08-24
 
+### Installation
+
+matminer
+tensorflow
+Bayesianoptimization
+
 ### Code description
 
 1. model_training.py is used to train Model 1 for optical absorption spectrum prediction from composition.
