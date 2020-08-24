@@ -1,8 +1,8 @@
 
-##. Source code for Inverse Design of composite Metal Oxide Optical Materials based on Deep Transfer Learning
+## Source code for Inverse Design of composite Metal Oxide Optical Materials based on Deep Transfer Learning
 
-by Rongzhi Dong and Jianjun Hu
-
+by Rongzhi Dong and Jianjun Hu\\
+2020-08-24
 
 
 
