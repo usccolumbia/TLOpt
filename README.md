@@ -2,10 +2,11 @@
 
 ## Source code for Inverse Design of composite Metal Oxide Optical Materials based on Deep Transfer Learning
 
-by Rongzhi Dong and Jianjun Hu
-School of Mechanical Engineering, Guizhou University
+by Rongzhi Dong^1 and Jianjun Hu^2
 
-Department of Computer Science and Engineering, University of South Carolina
+^1 School of Mechanical Engineering, Guizhou University
+
+^2 Department of Computer Science and Engineering, University of South Carolina
 2020-08-24
 
 ### Installation
