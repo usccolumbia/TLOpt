@@ -9,6 +9,11 @@ by Rongzhi Dong^1 and Jianjun Hu^2
 ^2 Department of Computer Science and Engineering, University of South Carolina
 2020-08-24
 
+
+### Framework
+
+<img source="framework.jpg" width=600>
+
 ### Installation
 
 matminer
