@@ -12,7 +12,8 @@ by Rongzhi Dong^1 and Jianjun Hu^2
 
 ### Framework
 
-<img source="framework.jpg" width=600>
+
+![](framework.jpg)
 
 ### Installation
 
