@@ -24,10 +24,22 @@ Bayesianoptimization
 5. GA_inverse_design_elements.py is used to inverse design formulas without specified elements through GA algorithm.
 6. BO_inverse_design_elements.py is used to inverse design formulas without specified elements through Bayesiaon optimization BO method.
 
+### Cite our paper
+
+Dong, Rongzhi, Yabo Dan, Xiang Li, and Jianjun Hu. "Inverse design of composite metal oxide optical materials based on deep transfer learning and global optimization." Computational Materials Science (2020): 110166.
+
+@article{dong2020inverse,
+  title={Inverse design of composite metal oxide optical materials based on deep transfer learning and global optimization},
+  author={Dong, Rongzhi and Dan, Yabo and Li, Xiang and Hu, Jianjun},
+  journal={Computational Materials Science},
+  pages={110166},
+  year={2020},
+  publisher={Elsevier}
+}
+
 
 ### Dataset
 
 Download link: https://www.osti.gov/dataexplorer/biblio/dataset/1479489
-
-Dataset citation:  Stein, Helge S., Edwin Soedarmadji, Paul F. Newhouse, Dan Guevarra, and John M. Gregoire. "Synthesis, optical imaging, and absorption 
+Stein, Helge S., Edwin Soedarmadji, Paul F. Newhouse, Dan Guevarra, and John M. Gregoire. "Synthesis, optical imaging, and absorption 
 spectroscopy data for 179072 metal oxides." Scientific data 6, no. 1 (2019): 1-5. [paper](https://www.nature.com/articles/s41597-019-0019-4)
